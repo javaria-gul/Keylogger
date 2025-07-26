@@ -1,4 +1,4 @@
-# 🕵️ Stealth Keylogger | Task 2 - Cybersecurity Internship
+# 🕵️ Stealth Keylogger 
 
 This project is a **proof-of-concept stealth keylogger** built for cybersecurity research purposes during my internship (Task 2).
 
