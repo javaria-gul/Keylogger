@@ -32,4 +32,4 @@ This tool was developed solely for **educational cybersecurity training**
 
 ## 👩‍💻 Author
 
-**Javaria Gul **  
+**Javaria Gul**  
