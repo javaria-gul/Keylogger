@@ -1,6 +1,6 @@
 # 🕵️ Stealth Keylogger 
 
-This project is a **proof-of-concept stealth keylogger** built for cybersecurity research purposes during my internship (Task 2).
+This project is a **proof-of-concept stealth keylogger** built for cybersecurity research purposes during my internship.
 
 > ⚠️ Intended strictly for **ethical, educational, and controlled testing** only.
 
